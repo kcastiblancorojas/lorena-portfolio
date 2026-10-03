@@ -7,7 +7,7 @@ const education = [
       "I'm in my third semester, learning how to design, build and test software, with a focus on artificial intelligence. So far I've worked on web development with HTML, CSS and JavaScript, and on database design with Oracle SQL.",
   },
   {
-    period: 'High school',
+    period: 'Graduated 2023',
     title: 'High School Diploma',
     institution: 'Colegio Bolívar · Soacha, Colombia',
     description:

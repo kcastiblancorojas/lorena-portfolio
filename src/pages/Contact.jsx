@@ -1,8 +1,7 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 
-// TODO: replace with Lorena's email address
-const CONTACT_EMAIL = 'your-email@example.com'
+const CONTACT_EMAIL = 'kcastibl@my.centennialcollege.ca'
 const GITHUB_URL = 'https://github.com/kcastiblancorojas'
 
 const initialForm = { firstName: '', lastName: '', phone: '', email: '', message: '' }

@@ -428,6 +428,14 @@ a {
   margin: 0 0 2rem;
 }
 
+/* Full legal name under the About Me heading */
+.legal-name {
+  margin: -1rem 0 2rem;
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: var(--muted);
+}
+
 /* Home mission statement */
 .mission {
   max-width: 60ch;

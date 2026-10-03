@@ -14,6 +14,7 @@ export default function About() {
   return (
     <section>
       <h1>About Me</h1>
+      <p className="legal-name">Karen Lorena Castiblanco Rojas</p>
       <div className="about">
         <img className="profile-photo" src={profile} alt="Lorena" />
         <div>
