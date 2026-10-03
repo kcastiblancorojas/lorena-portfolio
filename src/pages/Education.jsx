@@ -1,7 +1,7 @@
 const education = [
   {
-    period: '2025 – 2028 (expected)',
-    title: 'Software Engineering Technology – Artificial Intelligence',
+    period: 'September 2025 – 2028 (expected)',
+    title: 'Software Engineering Technology – Artificial Intelligence (Co-op), Advanced Diploma',
     institution: 'Centennial College · Toronto, Canada',
     description:
       "I'm in my third semester, learning how to design, build and test software, with a focus on artificial intelligence. So far I've worked on web development with HTML, CSS and JavaScript, and on database design with Oracle SQL.",

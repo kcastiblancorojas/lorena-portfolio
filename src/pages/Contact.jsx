@@ -39,6 +39,8 @@ export default function Contact() {
           <dl>
             <dt>Email</dt>
             <dd><a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a></dd>
+            <dt>Phone</dt>
+            <dd><a href="tel:+14374738628">(437) 473-8628</a></dd>
             <dt>GitHub</dt>
             <dd><a href={GITHUB_URL} target="_blank" rel="noreferrer">kcastiblancorojas</a></dd>
             <dt>Location</dt>

@@ -1,6 +1,6 @@
-import columbusBakery from '../assets/projects/columbus-bakery.png'
-import crepesWaffles from '../assets/projects/crepes-waffles.png'
-import warehouseDb from '../assets/projects/warehouse-db.png'
+import columbusBakery from '../assets/projects/columbus-bakery.jpg'
+import crepesWaffles from '../assets/projects/crepes-waffles.jpg'
+import warehouseDb from '../assets/projects/warehouse-db.jpg'
 
 const projects = [
   {
