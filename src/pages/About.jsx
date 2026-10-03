@@ -1,13 +1,18 @@
 import profile from '../assets/profile.jpg'
 
+// Matches the Technical Skills section of the resume
 const skills = [
-  'HTML',
-  'CSS',
+  'HTML / CSS',
   'JavaScript',
-  'Responsive Web Design',
-  'Oracle SQL',
-  'Database Design (ERD, 3NF)',
-  'Teamwork',
+  'React',
+  'Node.js',
+  'Python',
+  'Java',
+  'C#',
+  'SQL',
+  'Git / GitHub',
+  'Canva',
+  'Photoshop',
 ]
 
 export default function About() {
@@ -35,6 +40,17 @@ export default function About() {
               <li key={s}>{s}</li>
             ))}
           </ul>
+          {/* Resume PDF lives in /public, so Vite serves it from the site root */}
+          <p>
+            <a
+              href="/Resume.pdf"
+              className="btn"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View my resume (PDF)
+            </a>
+          </p>
         </div>
       </div>
     </section>
