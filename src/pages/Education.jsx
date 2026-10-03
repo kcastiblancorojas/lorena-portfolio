@@ -1,6 +1,6 @@
 const education = [
   {
-    period: 'Expected graduation: 2028',
+    period: '2025 – 2028 (expected)',
     title: 'Software Engineering Technology – Artificial Intelligence',
     institution: 'Centennial College · Toronto, Canada',
     description:
